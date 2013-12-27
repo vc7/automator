@@ -5,3 +5,4 @@ open /Applications/Skype.app;
 open /Applications/Xcode.app;
 open /Applications/Mail.app;
 open /Applications/Google\ Chrome.app;
+open /Applications/Utilities/Terminal.app;
